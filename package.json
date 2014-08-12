@@ -1,0 +1,19 @@
+{
+  "name": "json_api",
+  "version": "1.0.0",
+  "description": "json api homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MJGrant/sea-b20-day5hw-jsonAPI.git"
+  },
+  "author": "mjgrant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJGrant/sea-b20-day5hw-jsonAPI/issues"
+  },
+  "homepage": "https://github.com/MJGrant/sea-b20-day5hw-jsonAPI"
+}
